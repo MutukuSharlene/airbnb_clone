@@ -1,5 +1,7 @@
-🚀 This project was built using ReactJS, Node, Material UI for icons and stlying and Firebase for hosting 🚀. 
+# 🚀 The Airbnb  Clone 🚀
 
-🎉🎉 This application is a demo clone no rights reserved 🎉🎉.
+> This project was built using ReactJS, Node, Material UI for icons and stlying and Firebase for hosting 🚀. 
 
-🎁🎁 You can find the hosted application via this link https://airbnb-clone-8377c.web.app/ 🎁🎁
+>🎉🎉 This application is a demo clone no rights reserved 🎉🎉.
+
+>🎁🎁 You can find the hosted application via this link https://airbnb-clone-8377c.web.app/ 🎁🎁
